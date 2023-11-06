@@ -1,1 +1,1 @@
-FROM dciod/debian-xfce-vnc:nightly
+FROM lscr.io/linuxserver/chromium:latest
