@@ -1,1 +1,1 @@
-FROM dciod/ubuntu-vnc:latest
+FROM rattydave/docker-ubuntu-xrdp-mate-custom:20.04
