@@ -1,1 +1,1 @@
-FROM consol/debian-xfce-vnc
+FROM dciod/debian-xfce-vnc:nightly
