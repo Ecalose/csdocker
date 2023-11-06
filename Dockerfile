@@ -1,1 +1,1 @@
-FROM docker.io/dciod/ubuntu-vnc:latest
+FROM dciod/ubuntu-vnc:latest
